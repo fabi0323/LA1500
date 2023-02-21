@@ -7,7 +7,7 @@ Gruppe Buttercup: Meyer, Burlet, Jashari, Jeanneret-W, Tanner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|   21.2.23    | 0.0.1   | Start des Projektes, Thema finden, UC-Digramm, PAP. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
