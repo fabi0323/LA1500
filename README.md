@@ -24,9 +24,16 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
+| 1    |                 |      | Als Spieler möchte ich nach rechts und links ausweichen können. |
+| 2    |                 |      | Als Programmierer möchte ich Hindernisse ins Spiel einbauen können. |
+| 3    |                 |      | Als Spieler möchte ich Coins einsammeln können |
+| 4    |                 |      | Als Spieler möchte ich springen können |
+| 5    |                 |      |  |
+| 6    |                 |      | Als Programmierer möchte ich Hindernisse ins Spiel einbauen können. |
+| 7    |                 |      | Als Programmierer möchte ich Hindernisse ins Spiel einbauen können. |
+| 8    |                 |      | Als Programmierer möchte ich Hindernisse ins Spiel einbauen können. |
+| 9    |                 |      | Als Programmierer möchte ich Hindernisse ins Spiel einbauen können. |
+| 10   |                 |      | Als Programmierer möchte ich Hindernisse ins Spiel einbauen können. |
 
 
 ### 1.3 Testfälle
