@@ -14,10 +14,11 @@
 
 ### 1.1 Ihr Projekt
 
-FPS shooter
+Subwaysurfer
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
-
+Wir möchten in unity einen 3D endless runner mit zufälligen Hindernissen erstellen, bei dem man sich nach links rund rechts bewegen und springen kann.
+Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig objekte erzeugt.
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
