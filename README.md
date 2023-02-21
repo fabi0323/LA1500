@@ -17,7 +17,8 @@ Gruppe Buttercup: Meyer, Burlet, Jashari, Jeanneret-W, Tanner
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir möchten in unity einen 3D endless runner mit zufälligen Hindernissen erstellen, bei dem man sich nach links rund rechts bewegen und springen kann.
+Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig objekte erzeugt.
 
 ### 1.2 User Stories
 
@@ -40,6 +41,9 @@ Gruppe Buttercup: Meyer, Burlet, Jashari, Jeanneret-W, Tanner
 ### 1.4 Diagramme
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+
+![image](https://user-images.githubusercontent.com/77541325/220318069-c8561ee2-01ac-41a6-acfa-016a0bde5364.png)
+
 
 ## 2 Planen
 
