@@ -25,15 +25,15 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    Funktional   | Muss     | Als Spieler möchte ich nach rechts und links ausweichen können. |
-| 2    |     Funktional  |  Muss     | Als Programmierer möchte ich Hindernisse ins Spiel einbauen können. |
+| 2    |     Funktional  |  Muss     | Als Programmierer möchte ich Hindernisse als 3D Elemente können. |
 | 3    |     Funktional  |  Muss     | Als Spieler möchte ich Coins einsammeln können. |
 | 4    |     Funktional  |  Muss     | Als Spieler möchte ich springen können$. |
 | 5    |     Funktional  |   Muss    | Als Programmierer möchte ich lokalisieren können, wenn der Spieler in ein Hinderniss gerannt ist. |
-| 6    |    Funktional   |   Muss    |  |
-| 7    |  Funktional     |   Muss    |  |
-| 8    | Funktional      |   Muss    | |
-| 9    | Funktional      |   Muss    | |
-| 10   |  Funktional     |   Muss    |  |
+| 6    |    Funktional   |   Muss    | Als Programmierer möchte ich die Hindernisse zufällig auf der strecke spawnen können |
+| 7    |  Funktional     |   Muss    | Als Programmierer möchte ich Den Background und das spawnen der objekte loopen lassen um das spile unendlich zu machen|
+| 8    | Funktional      |   Muss    | Als Spieler möchte ich Rollen können|
+| 9    | Funktional      |   Muss    | Als spieler möchte ich nach einem Tod dierekt Neustarten können|
+| 10   |  Funktional     |   Muss    | Als Spieler möchte ich Items einsammeln können um mehr spass zu haben |
 
 
 ### 1.3 Testfälle
