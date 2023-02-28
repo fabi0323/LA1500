@@ -61,7 +61,8 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |9.1|Spieler Rennt|Spieler sammelt ein Item ein|Funktion des Items wird ausgeführt.|
 |10.1|Spieler Rennt|W/SPACE|Spieler springt über hinderniss ohne zu sterben.|
 |11.1|Spieler Rennt|S/SHIFT|Spieler rollt unter hinderniss ohne zu sterben.|
-|12.1||||
+|12.1|Spieler Rennt|Sammelt Meth ein|Welt wird langsamer, spieler animation wird schneller.|
+|12.2|Sammelt Meth ein|Timer läuft ab|Alles ist wieder in normaler geschwindigkeit.|
 |13.1|Sammelt Geistitem ein|Rennt in ein Hindernis|Geht durch das Hinderniss hindurch|
 |13.2|Sammelt Geistitem ein|Ein Timer Läuft ab|Man ist wieder normal|
 |14.1|Sammelt JungleJuice ein|W/SPACE|Springt doppelt so hoch.|
