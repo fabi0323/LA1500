@@ -7,8 +7,8 @@ Gruppe Buttercup: Meyer, Burlet, Jashari, Jeanneret-W, Tanner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   21.2.23    | 0.0.1   | Start des Projektes, Thema finden, UC-Digramm, PAP. |
-|       | ...     |                                                              |
+|   21.2.23    | 0.0.1   | Start des Projektes, Thema finden, UC-Digramm, PAP.   |
+| 28.2.23      | 0.0.2     |  Testfälle und Arbeitspakete erstellt               |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -24,25 +24,25 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    Funktional   | Muss     | Als Spieler möchte ich nach rechts und links ausweichen können. |
-| 2    |     Funktional  |  Muss     | Als Programmierer möchte ich Hindernisse als 3D Elemente erstellen können.|
-| 3    |     Funktional  |  Muss     | Als Spieler möchte ich Coins einsammeln können. |
-| 4    |     Funktional  |  Muss     | Als Spieler möchte ich springen können. |
-| 5    |     Funktional  |   Muss    | Als Programmierer möchte ich lokalisieren können, wenn der Spieler in ein Hinderniss gerannt ist. |
-| 6    |    Funktional   |   Muss    | Als Programmierer möchte ich die Hindernisse zufällig auf der strecke spawnen können.|
-| 7    | Funktional      |   Muss    | Als Spieler möchte ich Rollen können|
-| 8    | Funktional      |   Muss    | Als spieler möchte ich nach einem Tod dierekt Neustarten können|
+| 1    |    Funktional   | Muss     | Als Spieler möchte ich nach rechts und links ausweichen können,um nicht zu sterben |
+| 2    |     Funktional  |  Muss     | Als Spilere möchte ich Hindernisse als 3D Elemente haben, damit die welt gut aussieht|
+| 3    |     Funktional  |  Muss     | Als Spieler möchte ich Coins einsammeln können, um upgades im shop kaufen zu klönnen |
+| 4    |     Funktional  |  Muss     | Als Spieler möchte ich springen können, um hindernissen auszuweichem |
+| 5    |     Funktional  |   Muss    | Als Spieler möchte ich lokalisieren können, wenn der ich in ein Hinderniss gerannt bin, damit ich eine Herausvorderung habe |
+| 6    |    Funktional   |   Muss    | Als Spieler möchte ich dass die Hindernisse zufällig auf der strecke spawnen, damit es nicht langweilig wird|
+| 7    | Funktional      |   Muss    | Als Spieler möchte ich Rollen können, um hohen objekten auszuweichen|
+| 8    | Funktional      |   Muss    | Als spieler möchte ich nach einem Tod dierekt Neustarten können, dsamit ich nicht immer in den start bildschirm muss|
 | 9   |  Funktional     |   Muss    | Als Spieler möchte ich Items einsammeln können um mehr spass zu haben |
-|10|Funktional|Muss|Als User möchte ich über Hindernisse springen können.|
-|11|Funktional|Muss|Als User möchte ich unter Hindernisse rollen können.|
+|10|Funktional|Muss|Als User möchte ich über Hindernisse springen können, um nicht im sprung zu sterben|
+|11|Funktional|Muss|Als User möchte ich unter Hindernisse rollen können, um nicht während dem rollen zu sterben|
 |12|Funktional|kann|Als User möchte ich das Item Ibuprofen einsammeln können, um einfacher durch die Hindernisse zu kommen.|
 |13|Funktional|Kann|Als User möchte ich das Ghost Item einsammeln können, um durch Hindernisse hindurch rennen zu können.|
 |14|Funktional|Kann|Als User möchte ich einen Jungle Juice trinken können, damit ich höher springen kann.|
 |15|Funktional|Kann|Als User möchte ich das John Cena Item einsammeln können, damit man den Charakter nicht mehr sieht.|
 |16|Funktional|Kann|Als User möchte ich C2H5OH einsammeln können, damit ich zufällig in eine Richtung gehe.|
 |17|Funktional|Kann|Als User möchte ich eine Bombe einsammeln können, die die Umgebung löscht, damit man einfach durchrennen kann.|
-|18|Q|MUSS|Als User, möchte icht immer sehen wie weit ich gekommen bin.|
-
+|18|Q|MUSS|Als User, möchte icht immer sehen wie weit ich gekommen bin, damit ich mich mit freunden messen kann|
+|19|funktional|Kann| Als user möchte ich meine Items im shop verbessern können, um die Vorteile zu erweitern|
 
 ### 1.3 Testfälle
 
