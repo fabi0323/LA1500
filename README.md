@@ -124,8 +124,8 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |18.A|21.3.23|--|Script für Score anzeige erstellen|45min|
 |19.A|21.3.23|--|Coins aus allen rusn speichern|30min|
 |19.B|21.3.23|--|Shop erstellen und verbesserungen einfügen|60min|
-Total: 
-
+Total: 935min / 15.5h
+--> 3.1h/person
 
 
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
