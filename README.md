@@ -91,9 +91,26 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1.A|||||
-||||||
-
+|0.A|7.3.23|--|Boden erstellen und Textur einfügen|15min|
+|0.B|7.3.23|--|Boden animieren|45min|
+|0.C|7.3.23|--|Spielfigur erstellen|30min|
+|0.D|14.3.23|--|Spielfigur animieren|90min|
+|1.A|7.3.23|--|Scrpit für Spielerbewegeung erstellen|30min|
+|2.A|14.3.23|--|3D elemente Erstellen und als chunks Speichern|60-90min|
+|3.A|14.3.23|--|Coin element erstellen und bei berührung mit Spieler zerstören|30min|
+|3.B|21.3.23|--|Coins zu Chunks ergänzen|15min|
+|3.C|14.3.23|--|Coin Counter erstellen|15min|
+|4.A|7.3.23|--|Springen zu Bewegeungsscript hinzufügen|5min|
+|4.B|7.3.23|--|Springen wenn man in der luft ist blockieren|5min|
+|5.A|21.3.23|--|Script hum Spieler hinzufügen, welches die Kollision mit Objekten erkennt|60min|
+|6.A|14.3.23|--|Chunks aus 2.A zufällig einfügen|30min|
+|6.B|14.3.23|--|Script erstellen um Chunks welche Hinter dem Spieler liegen wieder zu löschen|20min|
+|7.A|7.3.23|--|Script der Spielerbewegung erweitern und rollen Hinzufügen|15min|
+|8.A|21.3.23|--|Neustartmenü erstellen|30min|
+|9.A|14.3.23|--|Script zum Items einsammeln erstellen und zum Spieler hinzufügen.|30min|
+|10.A|14.3.23|--|||
+|11.A|14.3.23|--|||
+|12.A|||||
 Total: 
 
 
