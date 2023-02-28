@@ -32,7 +32,7 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 | 6    |    Funktional   |   Muss    | Als Spieler möchte ich dass die Hindernisse zufällig auf der strecke spawnen, damit es nicht langweilig wird|
 | 7    | Funktional      |   Muss    | Als Spieler möchte ich Rollen können, um hohen objekten auszuweichen|
 | 8    | Funktional      |   Muss    | Als spieler möchte ich nach einem Tod dierekt Neustarten können, dsamit ich nicht immer in den start bildschirm muss|
-| 9   |  Funktional     |   Muss    | Als Spieler möchte ich Items einsammeln können um mehr spass zu haben |
+| 9   |  Funktional     |   Muss    | Als Spieler möchte ich ItemBoxen einsammeln können um mehr spass zu haben |
 |10|Funktional|Muss|Als User möchte ich über Hindernisse springen können, um nicht im sprung zu sterben|
 |11|Funktional|Muss|Als User möchte ich unter Hindernisse rollen können, um nicht während dem rollen zu sterben|
 |12|Funktional|kann|Als User möchte ich das Item Ibuprofen einsammeln können, um einfacher durch die Hindernisse zu kommen.|
@@ -78,6 +78,8 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |17.1|Sammelt Bombe ein|E|Zerstört zwei Chunks|
 |17.2|Spieler Rennt|Sammelt Bombe ein|Bomben Icon auf dem Screen|
 |18.1|Spieler Rennt|Spieler Stirbt|Es wird ein Score gezeigt, wie weit man gekommen ist.|
+|19.1|spieler stirbt|spieler wählt im menü "shop" aus|shop erscheint|
+|19.2|spieler ist im shop|spieler wählt upgrade aus|item wird verbessert|
 
 
 ### 1.4 Diagramme
@@ -108,12 +110,20 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |6.B|14.3.23|--|Script erstellen um Chunks welche Hinter dem Spieler liegen wieder zu löschen|20min|
 |7.A|7.3.23|--|Script der Spielerbewegung erweitern und rollen Hinzufügen|15min|
 |8.A|21.3.23|--|Neustartmenü erstellen|30min|
-|9.A|14.3.23|--|Script zum Items einsammeln erstellen und zum Spieler hinzufügen.|30min|
+|9.A|14.3.23|--|Script zum ItemsBoxen einsammeln erstellen und zum Spieler hinzufügen.|30min|
 |9.B|21.3.23|--|Timer script erstellen|15min|
-|9.C|14.3.23|--|Script zum einsammeln der Items erstellen und zum Spieler hinzufügen|20min|
+|9.C|14.3.23|--|Script zum einsammeln der ItemBox erstellen und zum Spieler hinzufügen|20min|
 |10.A|14.3.23|--|||
 |11.A|14.3.23|--|||
-|12.A|21.3.23|--|Script für die funktion von Ibuprofen hinzuügen||
+|12.A|21.3.23|--|Script für die funktion von Ibuprofen hinzufügen|30min|
+|13.A|21.3.23|--|Script für Ghost item Hinzufügen|45min|
+|14.A|21.3.23|--|Script für Jungle juice hinzufügen|30min|
+|15.A|21.3.23|--|Script für John Cena erstellen|30min|
+|16.A|21.3.23|--|Script für C2H5OH|| erstellen|45min|
+|17.A|21.3.23|--|Script für Bombe ertsllen|60min|
+|18.A|21.3.23|--|Script für Score anzeige erstellen|45min|
+|19.A|21.3.23|--|Coins aus allen rusn speichern|30min|
+|19.B|21.3.23|--|Shop erstellen und verbesserungen einfügen|60min|
 Total: 
 
 
