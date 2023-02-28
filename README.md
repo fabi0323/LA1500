@@ -91,8 +91,8 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+|1.A|||||
+||||||
 
 Total: 
 
