@@ -73,7 +73,8 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |16.2|Sammelt Vodka ein|D|Spieler geht nach links|
 |16.3|Sammelt Vodka ein|W/SPACE|Spieler Rollt|
 |16.4|Sammelt Vodka ein|S/SHIFT|Spieler Springt|
-|16.5|Sammelt Vodka ein|Timer läuft ab|Steuerung ist nicht mer invertiert.|
+|16.5|Spieler rennt|Sammelt vodka ein|Musik änder sich|
+|16.5|Sammelt Vodka ein|Timer läuft ab|Steuerung ist nicht mer invertiert, Musik wieder Normal|
 |17.1|Sammelt Bombe ein|E|Zerstört zwei Chunks|
 |17.2|Spieler Rennt|Sammelt Bombe ein|Bomben Icon auf dem Screen|
 |18.1|Spieler Rennt|Spieler Stirbt|Es wird ein Score gezeigt, wie weit man gekommen ist.|
@@ -102,15 +103,17 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |3.C|14.3.23|--|Coin Counter erstellen|15min|
 |4.A|7.3.23|--|Springen zu Bewegeungsscript hinzufügen|5min|
 |4.B|7.3.23|--|Springen wenn man in der luft ist blockieren|5min|
-|5.A|21.3.23|--|Script hum Spieler hinzufügen, welches die Kollision mit Objekten erkennt|60min|
+|5.A|21.3.23|--|Script zum Spieler hinzufügen, welches die Kollision mit Objekten erkennt|60min|
 |6.A|14.3.23|--|Chunks aus 2.A zufällig einfügen|30min|
 |6.B|14.3.23|--|Script erstellen um Chunks welche Hinter dem Spieler liegen wieder zu löschen|20min|
 |7.A|7.3.23|--|Script der Spielerbewegung erweitern und rollen Hinzufügen|15min|
 |8.A|21.3.23|--|Neustartmenü erstellen|30min|
 |9.A|14.3.23|--|Script zum Items einsammeln erstellen und zum Spieler hinzufügen.|30min|
+|9.B|21.3.23|--|Timer script erstellen|15min|
+|9.C|14.3.23|--|Script zum einsammeln der Items erstellen und zum Spieler hinzufügen|20min|
 |10.A|14.3.23|--|||
 |11.A|14.3.23|--|||
-|12.A|||||
+|12.A|21.3.23|--|Script für die funktion von Methylaphetamine hinzuügen||
 Total: 
 
 
