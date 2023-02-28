@@ -41,6 +41,7 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |15|Funktional|Kann|Als User möchte ich das John Cena Item einsammeln können, damit man den Charakter nicht mehr sieht.|
 |16|Funktional|Kann|Als User möchte ich C2H5OH einsammeln können, damit ich zufällig in eine Richtung gehe.|
 |17|Funktional|Kann|Als User möchte ich eine Bombe einsammeln können, die die Umgebung löscht, damit man einfach durchrennen kann.|
+|18|Q|MUSS|Als User, möchte icht immer sehen wie weit ich gekommen bin.|
 
 
 ### 1.3 Testfälle
@@ -74,6 +75,7 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |16.5|Sammelt Vodka ein|Timer läuft ab|Steuerung ist nicht mer invertiert.|
 |17.1|Sammelt Bombe ein|E|Zerstört zwei Chunks|
 |17.2|Spieler Rennt|Sammelt Bombe ein|Bomben Icon auf dem Screen|
+|18.1|Spieler Rennt|Spieler Stirbt|Es wird ein Score gezeigt, wie weit man gekommen ist.|
 
 
 ### 1.4 Diagramme
