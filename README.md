@@ -35,7 +35,7 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 | 9   |  Funktional     |   Muss    | Als Spieler möchte ich Items einsammeln können um mehr spass zu haben |
 |10|Funktional|Muss|Als User möchte ich über Hindernisse springen können.|
 |11|Funktional|Muss|Als User möchte ich unter Hindernisse rollen können.|
-|12|Funktional|kann|Als User möchte ich das Item Methylamphetamin einsammeln können, um einfacher durch die Hindernisse zu kommen.|
+|12|Funktional|kann|Als User möchte ich das Item Ibuprofen einsammeln können, um einfacher durch die Hindernisse zu kommen.|
 |13|Funktional|Kann|Als User möchte ich das Ghost Item einsammeln können, um durch Hindernisse hindurch rennen zu können.|
 |14|Funktional|Kann|Als User möchte ich einen Jungle Juice trinken können, damit ich höher springen kann.|
 |15|Funktional|Kann|Als User möchte ich das John Cena Item einsammeln können, damit man den Charakter nicht mehr sieht.|
@@ -61,8 +61,8 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |9.1|Spieler Rennt|Spieler sammelt ein Item ein|Funktion des Items wird ausgeführt.|
 |10.1|Spieler Rennt|W/SPACE|Spieler springt über hinderniss ohne zu sterben.|
 |11.1|Spieler Rennt|S/SHIFT|Spieler rollt unter hinderniss ohne zu sterben.|
-|12.1|Spieler Rennt|Sammelt Meth ein|Welt wird langsamer, spieler animation wird schneller.|
-|12.2|Sammelt Meth ein|Timer läuft ab|Alles ist wieder in normaler geschwindigkeit.|
+|12.1|Spieler Rennt|Sammelt Ibuprofen ein|Welt wird langsamer, spieler animation wird schneller.|
+|12.2|Sammelt Ibuprofen ein|Timer läuft ab|Alles ist wieder in normaler geschwindigkeit.|
 |13.1|Sammelt Geistitem ein|Rennt in ein Hindernis|Geht durch das Hinderniss hindurch|
 |13.2|Sammelt Geistitem ein|Ein Timer Läuft ab|Man ist wieder normal|
 |14.1|Sammelt JungleJuice ein|W/SPACE|Springt doppelt so hoch.|
@@ -113,7 +113,7 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 |9.C|14.3.23|--|Script zum einsammeln der Items erstellen und zum Spieler hinzufügen|20min|
 |10.A|14.3.23|--|||
 |11.A|14.3.23|--|||
-|12.A|21.3.23|--|Script für die funktion von Methylaphetamine hinzuügen||
+|12.A|21.3.23|--|Script für die funktion von Ibuprofen hinzuügen||
 Total: 
 
 
