@@ -94,36 +94,36 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|0.A|7.3.23|--|Boden erstellen und Textur einfügen|15min|
-|0.B|7.3.23|--|Boden animieren|45min|
-|0.C|7.3.23|--|Spielfigur erstellen|30min|
-|0.D|14.3.23|--|Spielfigur animieren|90min|
-|1.A|7.3.23|--|Scrpit für Spielerbewegeung erstellen|30min|
-|2.A|14.3.23|--|3D elemente Erstellen und als chunks Speichern|60-90min|
-|3.A|14.3.23|--|Coin element erstellen und bei berührung mit Spieler zerstören|30min|
-|3.B|21.3.23|--|Coins zu Chunks ergänzen|15min|
-|3.C|14.3.23|--|Coin Counter erstellen|15min|
-|4.A|7.3.23|--|Springen zu Bewegeungsscript hinzufügen|5min|
-|4.B|7.3.23|--|Springen wenn man in der luft ist blockieren|5min|
-|5.A|21.3.23|--|Script zum Spieler hinzufügen, welches die Kollision mit Objekten erkennt|60min|
-|6.A|14.3.23|--|Chunks aus 2.A zufällig einfügen|30min|
-|6.B|14.3.23|--|Script erstellen um Chunks welche Hinter dem Spieler liegen wieder zu löschen|20min|
-|7.A|7.3.23|--|Script der Spielerbewegung erweitern und rollen Hinzufügen|15min|
-|8.A|21.3.23|--|Neustartmenü erstellen|30min|
-|9.A|14.3.23|--|Script zum ItemsBoxen einsammeln erstellen und zum Spieler hinzufügen.|30min|
-|9.B|21.3.23|--|Timer script erstellen|15min|
-|9.C|14.3.23|--|Script zum einsammeln der ItemBox erstellen und zum Spieler hinzufügen|20min|
+|0.A|7.3.23|Tanner|Boden erstellen und Textur einfügen|15min|
+|0.B|7.3.23|Jeanneret|Boden animieren|45min|
+|0.C|7.3.23|Meyer|Spielfigur erstellen|30min|
+|0.D|14.3.23|Jashari|Spielfigur animieren|90min|
+|1.A|7.3.23|Burlet|Scrpit für Spielerbewegeung erstellen|30min|
+|2.A|14.3.23|Meyer|3D elemente Erstellen und als chunks Speichern|60-90min|
+|3.A|14.3.23|Burlet|Coin element erstellen und bei berührung mit Spieler zerstören|30min|
+|3.B|21.3.23|Jeanneret|Coins zu Chunks ergänzen|15min|
+|3.C|14.3.23|Tanner|Coin Counter erstellen|15min|
+|4.A|7.3.23|Jashari|Springen zu Bewegeungsscript hinzufügen|5min|
+|4.B|7.3.23|Burlet|Springen wenn man in der luft ist blockieren|5min|
+|5.A|21.3.23|Burlet|Script zum Spieler hinzufügen, welches die Kollision mit Objekten erkennt|60min|
+|6.A|14.3.23|Jeanneret|Chunks aus 2.A zufällig einfügen|30min|
+|6.B|14.3.23|Jashari|Script erstellen um Chunks welche Hinter dem Spieler liegen wieder zu löschen|20min|
+|7.A|7.3.23||Script der Spielerbewegung erweitern und rollen Hinzufügen|15min|
+|8.A|21.3.23|Burlet|Neustartmenü erstellen|30min|
+|9.A|14.3.23|Meyer|Script zum ItemsBoxen einsammeln erstellen und zum Spieler hinzufügen.|30min|
+|9.B|21.3.23|Tanner|Timer script erstellen|15min|
+|9.C|14.3.23|Jeanneret|Script zum einsammeln der ItemBox erstellen und zum Spieler hinzufügen|20min|
 |10.A|14.3.23|--|||
 |11.A|14.3.23|--|||
-|12.A|21.3.23|--|Script für die funktion von Ibuprofen hinzufügen|30min|
-|13.A|21.3.23|--|Script für Ghost item Hinzufügen|45min|
-|14.A|21.3.23|--|Script für Jungle juice hinzufügen|30min|
-|15.A|21.3.23|--|Script für John Cena erstellen|30min|
-|16.A|21.3.23|--|Script für C2H5OH|| erstellen|45min|
-|17.A|21.3.23|--|Script für Bombe ertsllen|60min|
-|18.A|21.3.23|--|Script für Score anzeige erstellen|45min|
-|19.A|21.3.23|--|Coins aus allen rusn speichern|30min|
-|19.B|21.3.23|--|Shop erstellen und verbesserungen einfügen|60min|
+|12.A|21.3.23|Jashari|Script für die funktion von Ibuprofen hinzufügen|30min|
+|13.A|21.3.23|Burlet|Script für Ghost item Hinzufügen|45min|
+|14.A|21.3.23|Meyer|Script für Jungle juice hinzufügen|30min|
+|15.A|21.3.23|Tanner|Script für John Cena erstellen|30min|
+|16.A|21.3.23|Jeanneret|Script für C2H5OH|| erstellen|45min|
+|17.A|21.3.23|Burlet|Script für Bombe ertsllen|60min|
+|18.A|21.3.23|Jashari|Script für Score anzeige erstellen|45min|
+|19.A|21.3.23|Meyer|Coins aus allen runden speichern|30min|
+|19.B|21.3.23|Jeanneret|Shop erstellen und verbesserungen einfügen|60min|
 Total: 935min / 15.5h
 --> 3.1h/person
 
