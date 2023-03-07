@@ -139,7 +139,7 @@ Total: 935min / 15.5h
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 4.A  | 7.3.23      |  Jashari         | 5min              |  15min                 |
 
 
 
