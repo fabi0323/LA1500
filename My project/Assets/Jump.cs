@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class Jump : MonoBehaviour
 {
     public float jumpForce = 10f;
     public Transform groundCheck;
@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        isGrounded = Physics.CheckSphere(groundCheck.position, 0.1f, groundLayer);
         // Springen, wenn der Spieler auf dem Boden steht und die Leertaste gedrückt wird
         if (isGrounded && Input.GetKeyDown(KeyCode.Space))
         {
