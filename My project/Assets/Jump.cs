@@ -16,7 +16,7 @@ public class Jump : MonoBehaviour
 
     void FixedUpdate()
     {
-        // Überprüfen, ob der Spieler auf dem Boden steht
+         //Überprüfen, ob der Spieler auf dem Boden steht
         isGrounded = Physics.CheckSphere(groundCheck.position, 0.1f, groundLayer);
     }
 
@@ -24,7 +24,7 @@ public class Jump : MonoBehaviour
     {
         isGrounded = Physics.CheckSphere(groundCheck.position, 0.1f, groundLayer);
         // Springen, wenn der Spieler auf dem Boden steht und die Leertaste gedrückt wird
-        if (isGrounded && Input.GetKeyDown(KeyCode.Space))
+        if (isGrounded && Input.GetKeyDown(KeyCode.W))
         {
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
         }
