@@ -15,7 +15,6 @@ Gruppe Buttercup: Meyer, Burlet, Jashari, Jeanneret-W, Tanner
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
 
 Wir möchten in unity einen 3D endless runner mit zufälligen Hindernissen erstellen, bei dem man sich nach links rund rechts bewegen und springen kann.
 Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig objekte erzeugt.
@@ -138,6 +137,13 @@ Total: 935min / 15.5h
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  |       |           |               |                   |
+| 1.A  |       |           |               |                   |
+| 1.A  |       |           |               |                   |
+| 1.A  |       |           |               |                   |
+| 1.A  |       |           |               |                   |
+| 1.A  |       |           |               |                   |
+| 1.A  |       |           |               |                   |
 | 1.A  |       |           |               |                   |
 | 4.A  | 7.3.23      |  Jashari         | 5min              |  15min                 |
 
