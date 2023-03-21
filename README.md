@@ -132,6 +132,7 @@ Total: 935min / 15.5h
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns dazu entschieden, dass der Charakter sich bewegt und einfach die Welt vorne generiert wird und hinten wieder verschwindet, anstatt dass sich die Welt bewegt und der Charakter da steht mit einer Rennanimation.
 
 ## 4 Realisieren
 
@@ -155,7 +156,7 @@ Total: 935min / 15.5h
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
+||       |          |        |
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
