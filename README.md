@@ -9,7 +9,8 @@ Gruppe Buttercup: Meyer, Burlet, Jashari, Jeanneret-W, Tanner
 | ----- | ------- | ------------------------------------------------------------ |
 |   21.2.23    | 0.0.1   | Start des Projektes, Thema finden, UC-Digramm, PAP.   |
 | 28.2.23      | 0.0.2     |  Testfälle und Arbeitspakete erstellt               |
-|       | 1.0.0   |                                                              |
+|7.3.22|0.0.3|Wir haben grundsätzlich nur versucht unser Projekt zu synchronisieren.|
+|14.3.22|0.0.4|Wir hatten probleme mit Github, womit unser fortschritt bisschen zurückgesetz wurde, wir haben deshalb nochmals das Jump und das Movementscript machen müssen.|
 
 ## 1 Informieren
 
