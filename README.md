@@ -94,7 +94,7 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|0.0| jede stunde | egal | Github repo mergen | 5min |
+|0.0| jede stunde | egal | Github repo teilen und mergen | 5min |
 |0.A|7.3.23|Tanner|Boden erstellen und Textur einfügen|15min|
 |0.B|7.3.23|Jeanneret|Boden animieren|45min|
 |0.C|7.3.23|Meyer|Spielfigur erstellen|30min|
@@ -140,7 +140,7 @@ Wir haben uns dazu entschieden, dass der Charakter sich bewegt und einfach die W
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 0.0  |  IMMER     |   ALLE        |  5min             | 5+h                   |
+| 0.0  |  IMMER     |   ALLE        |  5min             | 10+h                   |
 | 0.A  |       |Tanner     | 15min         | 10min             |
 | 0.B  |    -  | - | 45min         | -                 |
 | 0.C  | 7.3.23 |   Meyer   | 30min        | 45min             |
