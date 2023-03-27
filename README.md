@@ -94,6 +94,7 @@ Dabei wollen wir uns mit Unity vertraut machen und lernen wie man zufällig obje
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
+|0.0| jede stunde | egal | Github repo mergen | 5min |
 |0.A|7.3.23|Tanner|Boden erstellen und Textur einfügen|15min|
 |0.B|7.3.23|Jeanneret|Boden animieren|45min|
 |0.C|7.3.23|Meyer|Spielfigur erstellen|30min|
@@ -139,16 +140,35 @@ Wir haben uns dazu entschieden, dass der Charakter sich bewegt und einfach die W
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| 1.A  |       |           |               |                   |
-| 1.A  |       |           |               |                   |
-| 1.A  |       |           |               |                   |
-| 1.A  |       |           |               |                   |
-| 1.A  |       |           |               |                   |
-| 1.A  |       |           |               |                   |
-| 1.A  |       |           |               |                   |
+| 0.0  |  IMMER     |   ALLE        |  5min             | 5+h                   |
+| 0.A  |       |Tanner     | 15min         | 10min             |
+| 0.B  |    -  | - | 45min         | -                 |
+| 0.C  | 7.3.23 |   Meyer   | 30min        | 45min             |
+| 0.D  | 14.3.23  |  Jashari  |   30min      |mit 0.C erledigt   |
+| 1.A  | 7.3.23 -|    Burlet    | 30min            | 60min                 |
+| 2.A  |   -    |  -         |   75min            |-                   |
+| 3.A  |   -    |  -         |  30min             | -                  |
+| 3.B  |   -    |  -         | 15min               | -                  |
+| 3.C  |   -    |  -         |  15min              | -                  |
 | 4.A  | 7.3.23      |  Jashari         | 5min              |  15min                 |
-
+| 4.B  |   -    |  -         |  15min              | -                  |
+| 5.A  |   -    |  -         |  15min              | -                  |
+| 6.A  |   -    |  -         |  15min              | -                  |
+| 6.B  |   -    |  -         |  15min              | -                  |
+| 7.A  |   -    |  -         |  15min              | -                  |
+| 8.A  |   -    |  -         |  15min              | -                  |
+| 9.A  |   -    |  -         |  15min              | -                  |
+| 10.A  |   -    |  -         |  15min              | -                  |
+| 11.A  |   -    |  -         |  15min              | -                  |
+| 12.A  |   -    |  -         |  15min              | -                  |
+| 13.A |   -    |  -         |  15min              | -                  |
+| 14.A  |   -    |  -         |  15min              | -                  |
+| 15.A |   -    |  -         |  15min              | -                  |
+| 16.A  |   -    |  -         |  15min              | -                  |
+| 17.A  |   -    |  -         |  15min              | -                  |
+| 18.A |   -    |  -         |  15min              | -                  |
+| 19.A  |   -    |  -         |  15min              | -                  |
+| 19.B  |   -    |  -         |  15min              | -                  |
 
 
 ## 5 Kontrollieren
