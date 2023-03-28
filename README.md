@@ -11,6 +11,7 @@ Gruppe Buttercup: Meyer, Burlet, Jashari, Jeanneret-W, Tanner
 | 28.2.23      | 0.0.2     |  Testfälle und Arbeitspakete erstellt               |
 |7.3.22|0.0.3|Wir haben grundsätzlich nur versucht unser Projekt zu synchronisieren.|
 |14.3.22|0.0.4|Wir hatten probleme mit Github, womit unser fortschritt bisschen zurückgesetz wurde, wir haben deshalb nochmals das Jump und das Movementscript machen müssen.|
+|21.3.23|0.0.5|Wir haben das Automovementscript geschafft und Objekte spawnen und colliden mit den Objekten, damit man verliert.|
 
 ## 1 Informieren
 
@@ -140,37 +141,37 @@ Wir haben uns dazu entschieden, dass der Charakter sich bewegt und einfach die W
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 0.0  |  IMMER     |   ALLE        |  5min             | 10+h                   |
-| 0.A  |       |Tanner     | 15min         | 10min             |
-| 0.B  |    -  | - | 45min         | -                 |
-| 0.C  | 7.3.23 |   Meyer   | 30min        | 45min             |
-| 0.D  | 14.3.23  |  Jashari  |   30min      |mit 0.C erledigt   |
-| 1.A  | 7.3.23 -|    Burlet    | 30min            | 60min                 |
-| 2.A  |   -    |  -         |   75min            |-                   |
-| 3.A  |   -    |  -         |  30min             | -                  |
-| 3.B  |   -    |  -         | 15min               | -                  |
-| 3.C  |   -    |  -         |  15min              | -                  |
-| 4.A  | 7.3.23      |  Jashari         | 5min              |  15min                 |
-| 4.B  |   -    |  -         |  5min              | -                  |
-| 5.A  |   -    |  -         |  60min              | -                  |
-| 6.A  |   -    |  -         |  30min              | -                  |
-| 6.B  |   -    |  -         |  20min              | -                  |
-| 7.A  |   -    |  -         |  15min              | -                  |
-| 8.A  |   -    |  -         |  30min              | -                  |
-| 9.A  |   -    |  -         |  30min              | -                  |
-| 9.B  |   -    |  -         |  15min              | -                  |
-| 9.C  |   -    |  -         |  20min              | -                  |
-| 10.A  |   -    |  -         |  -              | -                  |
-| 11.A  |   -    |  -         |  -              | -                  |
-| 12.A  |   -    |  -         |  30min              | -                  |
-| 13.A |   -    |  -         |  45min              | -                  |
-| 14.A  |   -    |  -         |  30min              | -                  |
-| 15.A |   -    |  -         |  30min              | -                  |
-| 16.A  |   -    |  -         |  45min              | -                  |
-| 17.A  |   -    |  -         |  60min              | -                  |
-| 18.A |   -    |  -         |  45min              | -                  |
-| 19.A  |   -    |  -         |  30min              | -                  |
-| 19.B  |   -    |  -         |  60min              | -                  |
+| 0.0  |IMMER|ALLE|5min|10+h|
+| 0.A  ||Tanner| 15min| 10min|
+| 0.B  |-| - | 45min|-|
+| 0.C  | 7.3.23 |Meyer| 30min| 45min|
+| 0.D  | 14.3.23  |  Jashari  |   30min|mit 0.C erledigt|
+| 1.A  | 7.3.23 -|    Burlet    | 30min| 60min|
+| 2.A  |   -    |  -|   75min|-|
+| 3.A  |   -    |  -|  30min| -|
+| 3.B  |   -    |  -| 15min| -|
+| 3.C  |   -    |  -|  15min| |
+| 4.A  | 7.3.23|Jashari| 5min|  15min|
+| 4.B  |-|  -|  5min| -|
+| 5.A  |-|  -|  60min| -|
+| 6.A  |-|  -|  30min| -|
+| 6.B  | -|  -|  20min| -|
+| 7.A  |-|  |  15min| -|
+| 8.A  |-|  -|  30min| -|
+| 9.A  |-|  -|  30min| -|
+| 9.B  |-|  -|  15min| -|
+| 9.C  |-|  -|  20min| -|
+| 10.A  |-|  -|  -| -|
+| 11.A  |-|  -|  -| -|
+| 12.A  |-|  -|  30min| -|
+| 13.A |-|  -|  45min| -|
+| 14.A  |-|  -|  30min| -|
+| 15.A |-|  -|  30min| -|
+| 16.A  |-|  -|  45min| -|
+| 17.A  |-|  -|  60min| -|
+| 18.A |-|-|  45min| -|
+| 19.A|-|-|  30min| -|
+| 19.B|-|-|  60min| -|
 
 
 ## 5 Kontrollieren
