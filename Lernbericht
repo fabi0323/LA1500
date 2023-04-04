@@ -22,7 +22,7 @@ Hier wird das Spielobjekt mithilfe der "Transform.Translate" -Methode in Richtun
 Das bedeutet, dass sich das Objekt immer gleich schnell bewegt, unabhängig davon, wie schnell das Spiel gerade läuft.
 "Vector3.forward" bezieht sich auf die Vorwärtsachse des Spielobjekts in Weltkoordinaten.
 
-'''C#
+```C#
 public class Move : MonoBehaviour
 {
     public float speed = 5.0f; 
@@ -37,7 +37,7 @@ public class Move : MonoBehaviour
         transform.Translate(Vector3.forward * speed * Time.deltaTime);
     }
 }
-'''
+```
 
 ## Verifikation
 
