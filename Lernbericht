@@ -23,6 +23,11 @@ Das bedeutet, dass sich das Objekt immer gleich schnell bewegt, unabhängig davo
 "Vector3.forward" bezieht sich auf die Vorwärtsachse des Spielobjekts in Weltkoordinaten.
 
 ```C#
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
 public class Move : MonoBehaviour
 {
     public float speed = 5.0f; 
